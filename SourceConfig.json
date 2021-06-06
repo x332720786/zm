@@ -169,6 +169,12 @@
     },
     {
         "key": "",
+        "name": "好好资源（解析）",
+        "api": "http://haohaozy.com/api.php/provide/vod/at/xml",
+        "useInSearchAll": true
+    },
+    {
+        "key": "",
         "name": "零度资源（解析）",
         "api": "https://zy.kuluni.cn/api.php/provide/vod/at/xml/",
         "useInSearchAll": true
