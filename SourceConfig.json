@@ -133,6 +133,12 @@
     },
     {
         "key": "",
+        "name": "宅看影院",
+        "api": "https://www.zhaikanys.com/api.php/provide/vod/at/xml",
+        "useInSearchAll": true
+    },
+    {
+        "key": "",
         "name": "77看片",
         "api": "https://www.77kpp.com/inc/api.php",
         "useInSearchAll": true
@@ -171,6 +177,12 @@
         "key": "",
         "name": "好好资源（解析）",
         "api": "http://haohaozy.com/api.php/provide/vod/at/xml",
+        "useInSearchAll": true
+    },
+    {
+        "key": "",
+        "name": "速搜资源（解析）",
+        "api": "http://www.susouzy.com/api.php/provide/vod/at/xml",
         "useInSearchAll": true
     },
     {
