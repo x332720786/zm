@@ -120,109 +120,109 @@
     "use_in_parse_auto": true
   },
   {
-    "key": "20",
+    "key": "21",
     "name": "123VIP★★",
     "api": "http://vip123kan.vip:520/player/?url=",
     "use_in_parse_auto": true
   },
   {
-    "key": "21",
+    "key": "22",
     "name": "91★★",
     "api": "https://www.91jxs.com/jiexi/?url=",
     "use_in_parse_auto": true
   },
   {
-    "key": "22",
+    "key": "23",
     "name": "电影盒子★★",
     "api": "https://jx5.178du.com/p1/index.php?url=",
     "use_in_parse_auto": true
   },
   {
-    "key": "26",
+    "key": "24",
     "name": "PP云①★★",
     "api": "https://jx.ppflv.com/?url=",
     "use_in_parse_auto": true
   },
   {
-    "key": "29",
+    "key": "25",
     "name": "PP云②★★",
     "api": "https://jx.aidouer.net/?url=",
     "use_in_parse_auto": true
-  }
+  },
   {
-    "key": "29",
+    "key": "26",
     "name": "PP云③★",
     "api": "https://jx.aidouer.net/?url=",
     "use_in_parse_auto": true
   },
   {
-    "key": "28",
+    "key": "27",
     "name": "全网★★",
     "api": "https://jx.elwtc.com/vip/?url=",
     "use_in_parse_auto": true
   },
   {
-    "key": "29",
+    "key": "28",
     "name": "江湖云★★",
     "api": "https://api.jhdyw.vip/?url=",
     "use_in_parse_auto": true
   },
   {
-    "key": "23",
+    "key": "29",
     "name": "初心★★",
     "api": "https://www.17mv.club/?v=",
     "use_in_parse_auto": true
   },
   {
-    "key": "24",
+    "key": "30",
     "name": "青海①★★",
     "api": "https://api.qianhaijishi.net/?url=",
     "use_in_parse_auto": true
   },
   {
-    "key": "25",
+    "key": "31",
     "name": "青海②★★",
     "api": "https://jx.qianhaijishi.net/?url=",
     "use_in_parse_auto": true
   },
   {
-    "key": "27",
+    "key": "32",
     "name": "8090★",
     "api": "https://www.8090g.cn/jiexi/?url=",
     "use_in_parse_auto": true
   },
   {
-    "key": "29",
+    "key": "33",
     "name": "快播（ad）★",
     "api": "https://vip.qvod.us/?url=",
     "use_in_parse_auto": true
   },
   {
-    "key": "29",
+    "key": "34",
     "name": "1907（ad）★",
     "api": "https://z1.m1907.cn/?jx=",
     "use_in_parse_auto": true
   },
   {
-    "key": "28",
+    "key": "35",
     "name": "1717云①★",
     "api": "https://www.1717yun.com/jiexi/?url=",
     "use_in_parse_auto": true
   },
   {
-    "key": "29",
+    "key": "36",
     "name": "1717云②★",
     "api": "https://www.1717yun.com/jx/ty.php?url=",
     "use_in_parse_auto": true
   },
   {
-    "key": "26",
+    "key": "37",
     "name": "蓝光专用解析☆",
     "api": "https://j.languang.wfss100.com/?url=",
     "use_in_parse_auto": true
   },
   {
-    "key": "29",
+    "key": "38",
     "name": "789pqn专用☆",
     "api": "http://play.zk132.cn/m3u8.php?url=",
     "use_in_parse_auto": true
