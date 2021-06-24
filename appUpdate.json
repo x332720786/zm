@@ -1,0 +1,8 @@
+{
+    "status": true,
+    "title": "V影1.2.3版本发布",
+    "desc": "1.资源站首页放出来\n2.收藏放到我的\n3.支持搜索联想",
+    "versionCode": 13,
+    "downloadUrl": "https://vicedev.coding.net/p/VMovie/d/VMovieData/git/raw/master/apk/VMovie-1.2.3.apk",
+    "focus": false
+}
