@@ -325,6 +325,24 @@
         "useInSearchAll": true
     },
     {
+        "key": "",
+        "name": "新女神（解析）",
+        "api": "http://cms.tvbox543.com:80/api.php/provide/vod/at/xml",
+        "useInSearchAll": true
+    },
+    {
+        "key": "",
+        "name": "小姨妈（解析）",
+        "api": "https://office.4kyima.com/api.php/provide/vod/at/xml/",
+        "useInSearchAll": true
+    },
+    {
+        "key": "",
+        "name": "293（解析）",
+        "api": "http://app.wangweizhushou.com:2020/api.php/provide/vod/at/xml",
+        "useInSearchAll": true
+    },
+    {
         "key": "3D43707EE5EE4881551C50D594DF2CA0",
         "name": "麻瓜资源（解析）",
         "api": "http://maguays.cc/api.php/provide/vod/at/xml/",
@@ -425,6 +443,30 @@
         "name": "穿梭资源",
         "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
         "useInSearchAll": true
+    },
+    {
+        "key": "",
+        "name": "快播ZY资源",
+        "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbzy/at/xml/",
+        "useInSearchAll": false
+    },
+    {
+        "key": "",
+        "name": "106云（解析)",
+        "api": "http://106.53.96.250/api.php/provide/vod/at/xml",
+        "useInSearchAll": false
+    },
+    {
+        "key": "",
+        "name": "365(解析)",
+        "api": "http://video.365tx.com/api.php/provide/vod/at/xml",
+        "useInSearchAll": false
+    },
+    {
+        "key": "",
+        "name": "蓝猫B站（解析）",
+        "api": "https://www.lmzy.cc/api.php/provide/vod/at/xml",
+        "useInSearchAll": false
     },
     {
         "key": "",
@@ -560,18 +602,6 @@
     },
     {
         "key": "",
-        "name": "H_清影",
-        "api": "https://qyapi.xyz/api.php/provide/vod/at/xml/",
-        "useInSearchAll": false
-    },
-    {
-        "key": "",
-        "name": "H_辣椒",
-        "api": "http://api.11bat.com/mac10.php",
-        "useInSearchAll": false
-    },
-    {
-        "key": "",
         "name": "H_番号",
         "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
         "useInSearchAll": false
@@ -590,8 +620,20 @@
     },
     {
         "key": "",
+        "name": "H_环亚",
+        "api": "http://wmcj8.com/inc/sapi.php?ac=videolist&pg=1",
+        "useInSearchAll": false
+    },
+    {
+        "key": "",
         "name": "H_环亚无码",
         "api": "http://wmcj8.com/inc/sapi.php",
+        "useInSearchAll": false
+    },
+    {
+        "key": "",
+        "name": "H_博天堂",
+        "api": "http://bttcj.com/inc/sapi.php?ac=videolist&pg=1",
         "useInSearchAll": false
     },
     {
@@ -604,12 +646,6 @@
         "key": "",
         "name": "H_AV688",
         "api": "http://m.7777688.com/inc/api.php",
-        "useInSearchAll": false
-    },
-    {
-        "key": "",
-        "name": "H_速度",
-        "api": "http://www.ggmmzy.com:9999/inc/xml",
         "useInSearchAll": false
     },
     {
@@ -682,6 +718,66 @@
         "key": "",
         "name": "H_晓峰",
         "api": "http://api.xxcr.tk/api.php/provide/vod/at/xml/",
+        "useInSearchAll": false
+    },
+    {
+        "key": "",
+        "name": "H_字幕网",
+        "api": "http://zmcj88.com/api?ac=videolist&pg=1",
+        "useInSearchAll": false
+    },
+    {
+        "key": "",
+        "name": "H_JAV名优",
+        "api": "http://mygzycj.com/api.php?ac=videolist&pg=1",
+        "useInSearchAll": false
+    },
+    {
+        "key": "",
+        "name": "H_富二代",
+        "api": "http://f2dcj6.com/api?ac=videolist&pg=1",
+        "useInSearchAll": false
+    },
+    {
+        "key": "",
+        "name": "H_色色",
+        "api": "http://sscj8.com/inc/api.php?ac=videolist&pg=1",
+        "useInSearchAll": false
+    },
+    {
+        "key": "",
+        "name": "H_久久",
+        "api": "http://99zywcj.com/inc/ck.php?ac=videolist&pg=1",
+        "useInSearchAll": false
+    },
+    {
+        "key": "",
+        "name": "H_狼少年",
+        "api": "http://cjmygzy.com/inc/api.php?ac=videolist&pg=1",
+        "useInSearchAll": false
+    },
+    {
+        "key": "",
+        "name": "H_利来",
+        "api": "http://llzxcj.com/inc/ck.php?ac=videolist&pg=1",
+        "useInSearchAll": false
+    },
+    {
+        "key": "",
+        "name": "H_速度",
+        "api": "http://www.ggmmzy.com:9999/inc/xml",
+        "useInSearchAll": false
+    },
+    {
+        "key": "",
+        "name": "H_清影",
+        "api": "https://qyapi.xyz/api.php/provide/vod/at/xml/",
+        "useInSearchAll": false
+    },
+    {
+        "key": "",
+        "name": "H_辣椒",
+        "api": "http://api.11bat.com/mac10.php",
         "useInSearchAll": false
     }
 ]
