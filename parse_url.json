@@ -13,84 +13,6 @@
   },
   {
     "key": "",
-    "name": "OK★★",
-    "api": "https://okjx.cc?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "play★★",
-    "api": "https://www.playm3u8.cn/jiexi.php?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "全民★★",
-    "api": "http://jx.quanmingjiexi.com/?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "七彩★★",
-    "api": "https://www.xymav.com/?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "云解析★★",
-    "api": "https://jx.mw0.cc/?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "m3u8.TV★★☆",
-    "api": "https://jx.m3u8.tv/jiexi/?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "parwix★★☆",
-    "api": "https://vip.parwix.com:4433/player/?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "聚宇★★☆",
-    "api": "http://jf.ajuyu.com/jx/?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "66解析★★",
-    "api": "https://api.3jx.top/vip/?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "plamg★★",
-    "api": "https://plamgtvcache.ccyjjd.com/play.php?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "98看★★",
-    "api": "https://jx.youyitv.com/?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "奇米★★",
-    "api": "https://qimihe.com/?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "TNVIP★★",
-    "api": "https://www.33tn.cn/?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
     "name": "91★★",
     "api": "https://www.91jxs.com/jiexi/?url=",
     "use_in_parse_auto": true
@@ -111,78 +33,6 @@
     "key": "",
     "name": "明日解析",
     "api": "https://www.qianyicp.com/jiexi/?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "RDHK解析",
-    "api": "http://jx.rdhk.net/?v=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "大树解析",
-    "api": "https://jx.wlssys.xyz/vip.php?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "BL解析",
-    "api": "https://vip.bljiex.com/?v=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "爱跟解析",
-    "api": "https://vip.2ktvb.com/player/?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "迪奥解析",
-    "api": "https://123.1dior.cn/?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "688解析",
-    "api": "https://jx.popo520.cn/jiexi/?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "H8解析",
-    "api": "https://www.h8jx.com/jiexi.php?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "解析啦",
-    "api": "https://api.jiexi.la/?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "老板解析",
-    "api": "https://vip.laobandq.com/jiexi.php?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "月亮云解析",
-    "api": "http://api.yueliangjx.com/?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "七哥解析",
-    "api": "https://jx.mmkv.cn/tv.php?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "MAQQ解析",
-    "api": "https://player.maqq.cn/?url=",
     "use_in_parse_auto": true
   },
   {
@@ -231,18 +81,6 @@
     "key": "",
     "name": "快播（ad）★",
     "api": "https://vip.qvod.us/?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "cuan★★",
-    "api": "https://www.cuan.la/m3u8.php?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "xmao（cuan）★",
-    "api": "https://www.xmaocloud.com/m3u8.php?url=",
     "use_in_parse_auto": true
   },
   {
@@ -310,53 +148,5 @@
     "name": "618G（ad）",
     "api": "https://jx.618g.com/?url=",
     "use_in_parse_auto": true
-  },
-  {
-    "key": "",
-    "name": "乐喵★★",
-    "api": "http://jx.hao-zsj.cn/vip/?url=",
-    "use_in_parse_auto": false
-  },
-  {
-    "key": "",
-    "name": "金桥★★",
-    "api": "http://jqaaa.com/jx.php?url=",
-    "use_in_parse_auto": false
-  },
-  {
-    "key": "",
-    "name": "全网★★",
-    "api": "https://jx.elwtc.com/vip/?url=",
-    "use_in_parse_auto": false
-  },
-  {
-    "key": "",
-    "name": "smys8",
-    "api": "https://jxx.smys8.cn/index.php?url=",
-    "use_in_parse_auto": false
-  },
-  {
-    "key": "",
-    "name": "293专用解析",
-    "api": "https://api.qianqi.net/?url=",
-    "use_in_parse_auto": false
-  },
-  {
-    "key": "",
-    "name": "番茄DP专用",
-    "api": "https://dp.fqzy.cc/dplayer/?url=",
-    "use_in_parse_auto": false
-  },
-   {
-    "key": "",
-    "name": "蓝光专用解析☆",
-    "api": "https://j.languang.wfss100.com/?url=",
-    "use_in_parse_auto": false
-  },
-  {
-    "key": "",
-    "name": "789pqn专用☆",
-    "api": "http://play.zk132.cn/m3u8.php?url=",
-    "use_in_parse_auto": false
   }
 ]
