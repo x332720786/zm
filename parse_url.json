@@ -55,12 +55,6 @@
   },
   {
     "key": "",
-    "name": "江湖云★★",
-    "api": "https://api.jhdyw.vip/?url=",
-    "use_in_parse_auto": true
-  },
-  {
-    "key": "",
     "name": "青海①★★",
     "api": "https://api.qianhaijishi.net/?url=",
     "use_in_parse_auto": true
