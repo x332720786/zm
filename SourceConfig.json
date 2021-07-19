@@ -830,7 +830,7 @@
     },
     {
         "key": "",
-        "name": "蓝亦龙APP",
+        "name": "亦龙APP",
         "api": "http://app2.yilongys.cn/api.php/provide/vod/at/xml",
         "useInSearchAll": true
     },
