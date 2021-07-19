@@ -1,17 +1,5 @@
 [
     {
-        "key": "3FF1AF94E5E28C6A9A22BBE1E70EB3E2",
-        "name": "快播资源",
-        "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
-        "useInSearchAll": true
-    },
-    {
-        "key": "0A2A363CC8B0F120D42345A9E9EBC2EB",
-        "name": "八戒资源",
-        "api": "http://cj.bajiecaiji.com/inc/api.php",
-        "useInSearchAll": true
-    },
-    {
         "key": "1364B1580FA88AD6823DE3F3BB2DB8CC",
         "name": "天空资源",
         "api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
