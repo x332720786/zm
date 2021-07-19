@@ -42,21 +42,9 @@
         "useInSearchAll": true
     },
     {
-        "key": "",
-        "name": "不开门",
-        "api": "http://c.bukai.men/api.php/provide/vod/at/xml",
-        "useInSearchAll": true
-    },
-    {
         "key": "709D60F5DA8FC1BF66CB4A8BFE0D4A7A",
         "name": "605资源",
         "api": "http://www.605zy.co/inc/api.php",
-        "useInSearchAll": true
-    },
-    {
-        "key": "",
-        "name": "555电影",
-        "api": "https://www.o8tv.com/api.php/provide/vod/at/xml",
         "useInSearchAll": true
     },
     {
